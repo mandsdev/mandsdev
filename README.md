@@ -1,5 +1,5 @@
 <div align="center">
-    #mands
+   <p>#mands</p>
     <img src="nanami.gif" alt="Nanami" width="550">
   
 </div>
