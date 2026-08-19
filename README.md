@@ -5,7 +5,7 @@
 <p>・꣑୧・┈・┈・꣑୧・:・꣑୧・┈・┈・꣑୧・:・꣑୧・┈・┈・꣑୧・</p>
 <img src="nanami.gif" alt="Nanami" width="550">
 <p>・꣑୧・┈・┈・꣑୧・:・꣑୧・┈・┈・꣑୧・:・꣑୧・┈・┈・꣑୧・</p>
-<p>Oii! Eu me chamo **Amanda** e sou estudante de *Ciência da Computação* e *Análise e Desenvolvimento de Sistemas* (no segundo período em ambas!).</p>
+<p>Oii! Eu me chamo <b>Amanda</b> e sou estudante de <b>Ciência da Computação</b> e <b>Análise e Desenvolvimento de Sistemas</b> (no segundo período em ambas!).</p>
 <p>・꣑୧・┈・┈・꣑୧・:・꣑୧・┈・┈・꣑୧・:・꣑୧・┈・┈・꣑୧・</p>
 </div>
 
